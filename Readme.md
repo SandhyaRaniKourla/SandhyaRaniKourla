@@ -96,8 +96,8 @@ Examples and notes on building systems that are easier to monitor and troublesho
 
 I'm always interested in learning, collaborating, and discussing backend engineering and software architecture.
 
-- 💼 LinkedIn: *Add your LinkedIn profile*
-- 📫 Email: *Add your professional email*
+- 💼 LinkedIn: *https://www.linkedin.com/in/sandhya-rani-kourla-43835a27/*
+- 📫 Email: *sandhyakourla@gmail.com*
 
 ---
 
